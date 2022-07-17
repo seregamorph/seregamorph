@@ -4,7 +4,7 @@
 ### I'm a Software Engineer and Opensource Volunteer
 
 - I live in the Netherlands and work at Miro
-- 17+ Years Experience in Software development (mostly Java backend)
+- 18+ Years Experience in Software development (mostly Java backend)
 
 ### Connect with me:
 [LinkedIn](https://linkedin.com/in/schernov)
@@ -19,6 +19,7 @@
 * Obtaining Method from Method Reference [rus](https://habr.com/ru/post/522774/)
 * Extension methods in Java [rus](https://habr.com/ru/post/527688/)
 * Fluent setter: breaking the convention [rus](https://habr.com/ru/company/miro/blog/577478/) [eng](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e) 
+* Obtaining generic type in runtime [rus](https://habr.com/ru/post/588252/)
 
 </details>
 
