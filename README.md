@@ -18,8 +18,16 @@
 * CharSequence magic [rus](https://habr.com/ru/post/345660/)
 * Obtaining Method from Method Reference [rus](https://habr.com/ru/post/522774/)
 * Extension methods in Java [rus](https://habr.com/ru/post/527688/)
-* Fluent setter: breaking the convention [rus](https://habr.com/ru/company/miro/blog/577478/) [eng](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e) 
-* Obtaining generic type in runtime [rus](https://habr.com/ru/post/588252/)
+* Fluent setter: breaking the convention [eng](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e) 
+* Obtaining generic type at runtime [rus](https://habr.com/ru/post/588252/)
+
+</details>
+
+### Public speaking
+<details>
+  <summary>Click to expand</summary>
+
+* Improving Spring Boot tests efficiency [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
 
 </details>
 
