@@ -91,3 +91,11 @@ to verify collection order and extracted values (available on Maven Central)
 
 </details>
 
+### Bug hunting
+<details>
+  <summary>Click to expand</summary>
+
+* JetBrains
+  - [all projects](https://youtrack.jetbrains.com/issues?q=reported%20by:%20Sergey.Chernov%20)
+
+</details>
