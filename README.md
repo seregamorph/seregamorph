@@ -35,6 +35,8 @@
 <details>
   <summary>Click to expand</summary>
 
+* [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring 
+Boot test efficiency
 * [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers
 to verify collection order and extracted values (available on Maven Central)
 * [morejdbc](https://github.com/seregamorph/morejdbc) - helpers to call Oracle storable procedures/functions
