@@ -1,13 +1,14 @@
 
-### Hi all, I'm Sergey Chernov a.k.a. seregamorph
+### Hi all, I'm Sergey (Sergei) Chernov a.k.a. seregamorph
 
 ### I'm a Software Engineer and Opensource Volunteer
 
-- I live in the Netherlands and work at Miro
-- 18+ Years Experience in Software development (mostly Java backend)
+- I live in the Netherlands and work at Adyen
+- Most of the experience is Java backend development and maintenance,
+last years dedicated to Developer Productivity Engineering
 
 ### Connect with me:
-[LinkedIn](https://linkedin.com/in/schernov)
+[LinkedIn](https://linkedin.com/in/schernov/)
 
 ### Articles
 <details>
