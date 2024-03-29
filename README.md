@@ -108,4 +108,6 @@ to verify collection order and extracted values (available on Maven Central)
 * Various GitHub projects
   - [all projects](https://github.com/issues?q=is%3Aissue+author%3Aseregamorph+archived%3Afalse+is%3Aclosed)
 
+![](https://komarev.com/ghpvc/?username=seregamorph&style=flat-square&abbreviated=true)
+
 </details>
