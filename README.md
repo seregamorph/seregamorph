@@ -39,9 +39,11 @@ last years dedicated to build tooling and Developer Productivity Engineering
 
 * [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring 
 Boot test efficiency (available on Maven Central)
+* [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API 
+with powerful testing based on Spring Boot
 * [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers
 to verify collection order and extracted values (available on Maven Central)
-* [morejdbc](https://github.com/seregamorph/morejdbc) - helpers to call Oracle storable procedures/functions
+* [morejdbc](https://github.com/seregamorph/morejdbc) - helpers to call Oracle stored procedures/functions
 (available on Maven Central)
 * [reactive-cassandra](https://github.com/seregamorph/reactive-cassandra) - extensions for reactive-style
 (a.k.a. Promise) Futures for cassandra driver 2.x
