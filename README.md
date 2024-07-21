@@ -28,7 +28,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
-* Speed Up Your Maven Build x10…Before You Move to Gradle [DPE Summit 2024](https://dpe.org/summit2024/speakers) (hosted by Gradle Inc.)
+* Speed Up Your Maven Build x10…Before You Move to Gradle [DPE Summit 2024](https://dpe.org/sessions/sergei-chernov/speed-up-your-maven-build-x10-before-you-move-to-gradle/) (hosted by Gradle Inc.)
 * Improving Spring Boot tests efficiency [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
 * Improving Spring Boot tests efficiency [JUG Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251/) (hosted by Adyen)
 
