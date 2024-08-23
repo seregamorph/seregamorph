@@ -43,6 +43,8 @@ last years dedicated to build tooling and Developer Productivity Engineering
 Boot test efficiency (available on Maven Central)
 * [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API 
 with powerful testing based on Spring Boot
+* [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins
+supporting build caching
 * [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers
 to verify collection order and extracted values (available on Maven Central)
 * [morejdbc](https://github.com/seregamorph/morejdbc) - helpers to call Oracle stored procedures/functions
