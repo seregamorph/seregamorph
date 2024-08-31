@@ -32,6 +32,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * Speed Up Your Maven Build x10… Before You Move to Gradle [JUG Meetup](https://www.meetup.com/amsterdam-java-user-group/events/302997843) (hosted by Miro)
 * Improving Spring Boot tests efficiency [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
 * Improving Spring Boot tests efficiency [JUG Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
+* Fluent Setters in Java [JugRu Meetup](https://miro.jugru.org/) (hosted by JugRu/Miro)
 
 </details>
 
