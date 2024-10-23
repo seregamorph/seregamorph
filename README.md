@@ -47,7 +47,7 @@ Boot test efficiency (available on Maven Central)
 with powerful testing based on Spring Boot
 * [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins
 supporting build caching
-* [arch-maven-plugin](https://github.com/seregamorph/arch-maven-plugin) - JVM architecture validation plugin
+* [jvm-arch-maven-plugin](https://github.com/seregamorph/jvm-arch-maven-plugin) - Ensure JVM arch vs CPU arch
 (available on Maven Central)
 * [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers
 to verify collection order and extracted values (available on Maven Central)
