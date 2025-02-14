@@ -21,6 +21,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * Extension methods in Java [rus](https://habr.com/ru/post/527688/)
 * Fluent setter: breaking the convention [eng](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e) 
 * Obtaining generic type at runtime [rus](https://habr.com/ru/post/588252/)
+* Speed Up Your Maven Build x10… Before You Move to Gradle [rus](https://habr.com/ru/articles/881620/)
 
 </details>
 
