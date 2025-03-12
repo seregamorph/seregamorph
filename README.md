@@ -3,9 +3,10 @@
 
 ### I'm a Software Engineer and Opensource Volunteer
 
-- I live in the Netherlands and work at Adyen
+- I live in the Netherlands and work at Miro
 - Most of the experience is Java backend development and maintenance,
 last years dedicated to build tooling and Developer Productivity Engineering
+- Also, I contribute to open source, write articles and do public speaking
 
 ### Connect with me:
 [LinkedIn](https://linkedin.com/in/schernov/)
