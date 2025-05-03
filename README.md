@@ -46,14 +46,15 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
-* [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring 
-Boot test efficiency (available on Maven Central)
-* [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API 
-with powerful testing based on Spring Boot
-* [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins
-supporting build caching
-* [jvm-arch-maven-plugin](https://github.com/seregamorph/jvm-arch-maven-plugin) - Ensure JVM arch vs CPU arch
+* [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring Boot test efficiency (available on Maven Central)
+* [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins supporting build caching (available on Maven Central)
+* [maven-turbo-reactor](https://github.com/seregamorph/maven-turbo-reactor) - Make Maven Turbo fast
 (available on Maven Central)
+* [test-distribution](https://github.com/seregamorph/test-distribution) - Dynamic Test Distribution for Maven
+(available on Maven Central)
+* [jvm-arch-maven-extension](https://github.com/seregamorph/jvm-arch-maven-extension) - Ensure JVM arch vs CPU arch
+(available on Maven Central)
+* [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API with powerful testing based on Spring Boot
 * [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers
 to verify collection order and extracted values (available on Maven Central)
 * [morejdbc](https://github.com/seregamorph/morejdbc) - helpers to call Oracle stored procedures/functions
