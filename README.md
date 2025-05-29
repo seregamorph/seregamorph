@@ -30,13 +30,15 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
-* Speed Up Your Maven Build x10… Before You Move to Gradle [DPE Summit 2024](https://dpe.org/sessions/sergei-chernov/speed-up-your-maven-build-x10-before-you-move-to-gradle/) (hosted by Gradle Inc.)
-* Speed Up Your Maven Build x10… Before You Move to Gradle [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/302997843) (hosted by Miro)
-* Speed Up Your Maven Build x10… Before You Move to Gradle [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com/speaker/?id=2952) (hosted by CodeLabJUG)
-* Speed Up Your Maven Build x10… Before You Move to Gradle [Devoxx Greece 2025](https://devoxx.gr/schedule/speaker-details/?id=1481) (hosted by SoftConf)
-* Improving Spring Boot tests efficiency [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) (hosted by Broadcom)
-* Improving Spring Boot tests efficiency [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
-* Improving Spring Boot tests efficiency [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
+* Speed Up Your Maven Build x10… Before You Move to Gradle
+  * [DPE Summit 2024](https://dpe.org/sessions/sergei-chernov/speed-up-your-maven-build-x10-before-you-move-to-gradle/) (hosted by Gradle Inc.)
+  * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/302997843) (hosted by Miro)
+  * [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com/speaker/?id=2952) (hosted by CodeLabJUG)
+  * [Devoxx Greece 2025](https://devoxx.gr/schedule/speaker-details/?id=1481) (hosted by SoftConf)
+* Improving Spring Boot tests efficiency
+  * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) (hosted by Broadcom)
+  * [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
+  * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
 * Discussing monorepos [BuildPropulsionLab](https://www.youtube.com/watch?v=Sz9veda7JKc) (hosted by Gradle Inc.)
 * Fluent Setters in Java [JugRu Meetup](https://miro.jugru.org/) (hosted by JugRu/Miro)
 
