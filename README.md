@@ -45,7 +45,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 
 </details>
 
-### Pet projects
+### Projects
 <details>
   <summary>Click to expand</summary>
 
