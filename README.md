@@ -49,19 +49,14 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
-* [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring Boot test efficiency (available on Maven Central)
-* [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins supporting build caching (available on Maven Central)
-* [maven-turbo-reactor](https://github.com/seregamorph/maven-turbo-reactor) - Make Maven Turbo fast
-(available on Maven Central)
+* [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring Boot test efficiency
+* [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins supporting build caching
+* [maven-turbo-builder](https://github.com/maven-turbo-reactor/maven-turbo-builder) (also part of [Maveniverse](https://github.com/maveniverse/maven-turbo-builder)) - Make Maven Turbo fast
 * [test-distribution](https://github.com/seregamorph/test-distribution) - Dynamic Test Distribution for Maven
-(available on Maven Central)
 * [jvm-arch-maven-extension](https://github.com/seregamorph/jvm-arch-maven-extension) - Ensure JVM arch vs CPU arch
-(available on Maven Central)
 * [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API with powerful testing based on Spring Boot
-* [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers
-to verify collection order and extracted values (available on Maven Central)
+* [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers to verify collection order and extracted values
 * [morejdbc](https://github.com/seregamorph/morejdbc) - helpers to call Oracle stored procedures/functions
-(available on Maven Central)
 * [reactive-cassandra](https://github.com/seregamorph/reactive-cassandra) - extensions for reactive-style
 (a.k.a. Promise) Futures for cassandra driver 2.x
 * [binaryxml](https://github.com/seregamorph/binaryxml) - own lightweight binary xml serialization library
@@ -83,7 +78,7 @@ to verify collection order and extracted values (available on Maven Central)
   - [Self repairing in case of corrupted state](https://github.com/eirslett/frontend-maven-plugin/pull/807)
   - [Support arm64 binaries since Node.js v16](https://github.com/eirslett/frontend-maven-plugin/pull/970)
 * [hibernate-orm](https://github.com/hibernate/hibernate-orm)
-  - [Order.reverse() contract string following](https://github.com/hibernate/hibernate-orm/pull/3272)
+  - [Order.reverse() contract strict following](https://github.com/hibernate/hibernate-orm/pull/3272)
   - [Order.reverse() contract strict following backport](https://github.com/hibernate/hibernate-orm/pull/3271)
 * [jackson-databind](https://github.com/FasterXML/jackson-databind)
   - [Fix default CharSequence serialization](https://github.com/FasterXML/jackson-databind/pull/3332)
