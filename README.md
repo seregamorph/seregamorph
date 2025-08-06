@@ -38,7 +38,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * Monolith Server Build Optimization [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)
 * Maven Turbo reactor [DPE Summit 2025](https://dpe.org/sessions/) (hosted by Gradle Inc.)
 * Improving Spring Boot tests efficiency
-  * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) (hosted by Broadcom)
+  * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) [recording](https://www.youtube.com/watch?v=7jMIipe2AJI) (hosted by Broadcom)
   * [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
 * Discussing monorepos [BuildPropulsionLab](https://www.youtube.com/watch?v=Sz9veda7JKc) (hosted by Gradle Inc.)
