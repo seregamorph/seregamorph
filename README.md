@@ -86,21 +86,21 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)
   - [Fix maven import for non-case sensitive unique artifactId](https://github.com/JetBrains/intellij-community/pull/2435)
 * [spring-framework](https://github.com/spring-projects/spring-framework)
-  - [Optimize context caching in the TestContext framework \[open\]](https://github.com/spring-projects/spring-framework/issues/32289)
+  - [Optimize context caching in the TestContext framework](https://github.com/spring-projects/spring-framework/issues/32289) \[open\]
 * [gradle](https://github.com/gradle/gradle)
-  - [Expose BuildCacheKey to task execution \[open\]](https://github.com/gradle/gradle/pull/28998)
+  - [Expose BuildCacheKey to task execution](https://github.com/gradle/gradle/pull/28998) \[open\]
 * [groovy](https://github.com/apache/groovy)
   - [GROOVY-11541: Sql wildcard params](https://github.com/apache/groovy/pull/2139)
 * [dependency-management-plugin](https://github.com/spring-gradle-plugins/dependency-management-plugin)
   - [dependencyManagement task is eagerly created](https://github.com/spring-gradle-plugins/dependency-management-plugin/pull/403)
 * [dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
   - [Reason explanation id ambiguity](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1125)
-  - [Caching issues for included builds \[open\]](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1220)
+  - [Caching issues for included builds](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1220) \[open\]
   - [Fix incomplete reason explanation on multi capabilities](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1170)
-  - [artifactsReport granular cache inputs \[open\]](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1219)
+  - [artifactsReport granular cache inputs](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1219) \[open\]
   - [Print build path in projectHealth](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1178)
   - [Sort output of graphView and findDeclarations](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1202)
-  - [JSON pretty print option \[open\]](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1205)
+  - [JSON pretty print option](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1205) \[open\]
 * [easy-random](https://github.com/j-easy/easy-random)
   - [Repeatable random object](https://github.com/j-easy/easy-random/pull/413)
 * [commons-beanutils](https://github.com/apache/commons-beanutils)
@@ -123,6 +123,8 @@ last years dedicated to build tooling and Developer Productivity Engineering
   - [Fix gradlew/mnvw generation](https://github.com/micronaut-projects/micronaut-starter/pull/923)
 * [quarkus](https://github.com/quarkusio/quarkus)
   - [Fix gradlew/mnvw generation](https://github.com/quarkusio/quarkus/pull/20513)
+* [spring-test-profiler](https://github.com/PragmaTech-GmbH/spring-test-profiler)
+  - [Fix single registerSingleton](https://github.com/PragmaTech-GmbH/spring-test-profiler/pull/17)
 * [All pull requests](https://github.com/pulls?q=is%3Apr+author%3Aseregamorph+archived%3Afalse+is%3Aclosed)
 
 </details>
