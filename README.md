@@ -15,15 +15,15 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
+* Fluent setter: breaking the convention [eng](https://javapro.io/wp-content/uploads/2025/09/JavaPRO_03-2_2025_final.pdf)(page 35) [eng](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e)
+* Speed Up Your Maven Build x10… Before You Move to Gradle [eng](https://javapro.io/2025/08/26/how-to-speed-up-maven-builds/)|[rus](https://habr.com/ru/articles/881620/)
+* Optimizing Spring Integration Tests at Scale [eng](https://www.baeldung.com/spring-integration-test-optimize)
 * Simple release management with git [rus](https://habr.com/ru/post/159107/)
 * Refactoring legacy-project to Dependency Injection. Sith's way [rus](https://habr.com/ru/post/217523/)
 * CharSequence magic [rus](https://habr.com/ru/post/345660/)
 * Obtaining Method from Method Reference [rus](https://habr.com/ru/post/522774/)
 * Extension methods in Java [rus](https://habr.com/ru/post/527688/)
-* Fluent setter: breaking the convention [eng](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e) 
 * Obtaining generic type at runtime [rus](https://habr.com/ru/post/588252/)
-* Speed Up Your Maven Build x10… Before You Move to Gradle [eng](https://javapro.io/2025/08/26/how-to-speed-up-maven-builds/)|[rus](https://habr.com/ru/articles/881620/)
-* Optimizing Spring Integration Tests at Scale [eng](https://www.baeldung.com/spring-integration-test-optimize)
 
 </details>
 
