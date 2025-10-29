@@ -36,15 +36,15 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
-* Speed Up Your Maven Build x10… Before You Move to Gradle
-  * [DPE Summit 2024](https://dpe.org/sessions/sergei-chernov/speed-up-your-maven-build-x10-before-you-move-to-gradle/) (hosted by Gradle Inc.)
+* Speed Up Your Maven Build x10… Before You Move to Gradle [\[slides\]](https://miro.com/app/board/uXjVKXqx8pg=/)
+  * [DPE Summit 2024](https://dpe.org/sessions/sergei-chernov/speed-up-your-maven-build-x10-before-you-move-to-gradle/) [\[recording\]](https://www.youtube.com/watch?v=8bk0t5vr3fQ) (hosted by Gradle Inc.)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/302997843) (hosted by Miro)
-  * [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com/speaker/?id=2952) (hosted by CodeLabJUG)
+  * [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com/speaker/?id=2952) [\[recording\]](https://www.youtube.com/watch?v=lsOkZpb7i2M) (hosted by CodeLabJUG)
   * [Devoxx Greece 2025](https://devoxx.gr/schedule/speaker-details/?id=1481) (hosted by SoftConf)
 * Monolith Server Build Optimization [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)
-* Maven Turbo reactor [DPE Summit 2025](https://dpe.org/sessions/sergey-chernov/maven-turbo-reactor/) [recording](https://www.youtube.com/watch?v=89Nuw9SDdwY) [slides](https://miro.com/app/board/uXjVLYUPRas=/) (hosted by Gradle Inc.)
-* Improving Spring Boot tests efficiency
-  * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) [recording](https://www.youtube.com/watch?v=7jMIipe2AJI) (hosted by Broadcom)
+* Maven Turbo reactor [DPE Summit 2025](https://dpe.org/sessions/sergey-chernov/maven-turbo-reactor/) [\[recording\]](https://www.youtube.com/watch?v=89Nuw9SDdwY) [\[slides\]](https://miro.com/app/board/uXjVLYUPRas=/) (hosted by Gradle Inc.)
+* Improving Spring Boot tests efficiency [\[slides\]](https://miro.com/app/board/uXjVN3KJeCI=/)
+  * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) [\[recording\]](https://www.youtube.com/watch?v=7jMIipe2AJI) (hosted by Broadcom)
   * [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
   * [Voxxed Days Thessaloniki 2025](https://m.devoxx.com/events/vdthess25/talks/2604/improving-spring-boot-test-efficiency) (hosted by The Java Community BV.)
