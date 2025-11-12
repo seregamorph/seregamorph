@@ -47,7 +47,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) [\[recording\]](https://www.youtube.com/watch?v=7jMIipe2AJI) (hosted by Broadcom)
   * [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
-  * [Voxxed Days Thessaloniki 2025](https://m.devoxx.com/events/vdthess25/talks/2604/improving-spring-boot-test-efficiency) (hosted by The Java Community BV.)
+  * [Voxxed Days Thessaloniki 2025](https://m.devoxx.com/events/vdthess25/talks/2604/improving-spring-boot-test-efficiency) [\[recording\]](https://www.youtube.com/watch?v=EXDzEI6uQ0E&list=PLRsbF2sD7JVqMiOc_57IDl5KAHEwwrBwb) (hosted by The Java Community BV.)
 * Discussing monorepos [BuildPropulsionLab](https://www.youtube.com/watch?v=Sz9veda7JKc) (hosted by Gradle Inc.)
 * Fluent Setters in Java [JugRu Meetup](https://miro.jugru.org/) (hosted by JugRu/Miro)
 
