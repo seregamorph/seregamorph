@@ -48,7 +48,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   * [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
   * [Voxxed Days Thessaloniki 2025](https://m.devoxx.com/events/vdthess25/talks/2604/improving-spring-boot-test-efficiency) [\[recording\]](https://www.youtube.com/watch?v=EXDzEI6uQ0E&list=PLRsbF2sD7JVqMiOc_57IDl5KAHEwwrBwb) (hosted by The Java Community BV.)
-* Test Distribution with Maven [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/311837693/)
+* Test Distribution with Maven [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/311837693/) [\[slides\]](https://miro.com/app/board/uXjVJkbEMRs=/)
 * Discussing monorepos [BuildPropulsionLab](https://www.youtube.com/watch?v=Sz9veda7JKc) (hosted by Gradle Inc.)
 * Fluent Setters in Java [JugRu Meetup](https://miro.jugru.org/) (hosted by JugRu/Miro)
 
