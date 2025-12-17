@@ -22,7 +22,9 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * Speed Up Your Maven Build x10… Before You Move to Gradle
   * [JAVAPRO magazine](https://javapro.io/2025/08/26/how-to-speed-up-maven-builds/)
   * [Habr (rus)](https://habr.com/ru/articles/881620/)
-* Optimizing Spring Integration Tests at Scale [Baeldung](https://www.baeldung.com/spring-integration-test-optimize)
+* Optimizing Spring Integration Tests at Scale
+  * [Baeldung](https://www.baeldung.com/spring-integration-test-optimize)
+  * [JAVAPRO maganize](https://javapro.io/2025/12/17/optimizing-spring-integration-tests-at-scale/)
 * Simple release management with git [Habr (rus)](https://habr.com/ru/post/159107/)
 * Refactoring legacy-project to Dependency Injection. Sith's way [Habr (rus)](https://habr.com/ru/post/217523/)
 * CharSequence magic [Habr (rus)](https://habr.com/ru/post/345660/)
