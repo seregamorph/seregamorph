@@ -43,7 +43,9 @@ last years dedicated to build tooling and Developer Productivity Engineering
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/302997843) (hosted by Miro)
   * [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com/speaker/?id=2952) [\[recording\]](https://www.youtube.com/watch?v=lsOkZpb7i2M) (hosted by CodeLabJUG)
   * [Devoxx Greece 2025](https://devoxx.gr/schedule/speaker-details/?id=1481) (hosted by SoftConf)
-* Monolith Server Build Optimization [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)
+* Monolith Server Build Optimizations
+  * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)
+  * [Uber x Build Meetup](https://www.meetup.com/uber-tech-events-amsterdam/events/312799660/)
 * Maven Turbo reactor [DPE Summit 2025](https://dpe.org/sessions/sergey-chernov/maven-turbo-reactor/) [\[recording\]](https://www.youtube.com/watch?v=89Nuw9SDdwY) [\[slides\]](https://miro.com/app/board/uXjVLYUPRas=/) (hosted by Gradle Inc.)
 * Improving Spring Boot tests efficiency [\[slides\]](https://miro.com/app/board/uXjVN3KJeCI=/)
   * [Spring I/O 2025](https://2025.springio.net/speakers/sergei-chernov/) [\[recording\]](https://www.youtube.com/watch?v=7jMIipe2AJI) (hosted by Broadcom)
