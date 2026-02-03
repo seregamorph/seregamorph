@@ -15,16 +15,17 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
-* Fluent setter: breaking the convention
-  * [JAVAPRO magazine](https://javapro.io/wp-content/uploads/2025/09/JavaPRO_03-2_2025_final.pdf) (page 35)
-  * [JAVAPRO magazine](https://javapro.io/2025/10/01/fluent-setter-breaking-the-convention/)
-  * [Miro Engineering blog](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e)
 * Speed Up Your Maven Build x10… Before You Move to Gradle
   * [JAVAPRO magazine](https://javapro.io/2025/08/26/how-to-speed-up-maven-builds/)
   * [Habr (rus)](https://habr.com/ru/articles/881620/)
 * Optimizing Spring Integration Tests at Scale
   * [Baeldung](https://www.baeldung.com/spring-integration-test-optimize)
-  * [JAVAPRO maganize](https://javapro.io/2025/12/17/optimizing-spring-integration-tests-at-scale/)
+  * [JAVAPRO maganize PDF](https://javapro.io/wp-content/uploads/2026/02/JAVAPRO_01-2026.pdf) (page 119)
+  * [JAVAPRO maganize Web](https://javapro.io/2025/12/17/optimizing-spring-integration-tests-at-scale/)
+* Fluent setter: breaking the convention
+  * [JAVAPRO magazine PDF](https://javapro.io/wp-content/uploads/2025/09/JavaPRO_03-2_2025_final.pdf) (page 35)
+  * [JAVAPRO magazine Web](https://javapro.io/2025/10/01/fluent-setter-breaking-the-convention/)
+  * [Miro Engineering blog](https://medium.com/miro-engineering/fluent-setter-breaking-the-convention-33ce3433126e)
 * Simple release management with git [Habr (rus)](https://habr.com/ru/post/159107/)
 * Refactoring legacy-project to Dependency Injection. Sith's way [Habr (rus)](https://habr.com/ru/post/217523/)
 * CharSequence magic [Habr (rus)](https://habr.com/ru/post/345660/)
