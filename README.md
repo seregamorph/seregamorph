@@ -39,6 +39,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 <details>
   <summary>Click to expand</summary>
 
+* IntelliJ IDEA — The IDE That Changed Java Forever [Documentary](https://www.youtube.com/watch?v=Kourq_Lz03U)
 * Speed Up Your Maven Build x10… Before You Move to Gradle [\[slides\]](https://miro.com/app/board/uXjVKXqx8pg=/)
   * [DPE Summit 2024](https://dpe.org/sessions/sergei-chernov/speed-up-your-maven-build-x10-before-you-move-to-gradle/) [\[recording\]](https://www.youtube.com/watch?v=8bk0t5vr3fQ) (hosted by Gradle Inc.)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/302997843) (hosted by Miro)
@@ -53,6 +54,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   * [YouTube](https://www.youtube.com/watch?v=_Vci_5nr8R0) (hosted by AtomicJar/TestContainers)
   * [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/298353251) (hosted by Adyen)
   * [Voxxed Days Thessaloniki 2025](https://m.devoxx.com/events/vdthess25/talks/2604/improving-spring-boot-test-efficiency) [\[recording\]](https://www.youtube.com/watch?v=EXDzEI6uQ0E&list=PLRsbF2sD7JVqMiOc_57IDl5KAHEwwrBwb) (hosted by The Java Community BV.)
+* How to migrate the legacy project to Spring Boot [Spring I/O 2026](https://2026.springio.net/sessions/how-to-migrate-the-legacy-project-to-spring-boot/)
 * Test Distribution with Maven [JUG Amsterdam Meetup](https://www.meetup.com/amsterdam-java-user-group/events/311837693/) [\[slides\]](https://miro.com/app/board/uXjVJkbEMRs=/)
 * Discussing monorepos [BuildPropulsionLab](https://www.youtube.com/watch?v=Sz9veda7JKc) (hosted by Gradle Inc.)
 * Fluent Setters in Java [JugRu Meetup](https://miro.jugru.org/) (hosted by JugRu/Miro)
