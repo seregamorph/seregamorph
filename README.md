@@ -102,6 +102,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   - [Fix maven import for non-case sensitive unique artifactId](https://github.com/JetBrains/intellij-community/pull/2435)
 * [spring-framework](https://github.com/spring-projects/spring-framework)
   - [Optimize context caching in the TestContext framework](https://github.com/spring-projects/spring-framework/issues/32289) \[open\]
+  - [Add missing @Deprecated(forRemoval = true)](https://github.com/spring-projects/spring-framework/issues/36591) \[open\]
 * [gradle](https://github.com/gradle/gradle)
   - [Expose BuildCacheKey to task execution](https://github.com/gradle/gradle/pull/28998) \[open\]
 * [groovy](https://github.com/apache/groovy)
