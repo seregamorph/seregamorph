@@ -102,7 +102,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   - [Fix maven import for non-case sensitive unique artifactId](https://github.com/JetBrains/intellij-community/pull/2435)
 * [spring-framework](https://github.com/spring-projects/spring-framework)
   - [Optimize context caching in the TestContext framework](https://github.com/spring-projects/spring-framework/issues/32289) \[open\]
-  - [Add missing @Deprecated(forRemoval = true)](https://github.com/spring-projects/spring-framework/issues/36591) \[open\]
+  - [Add missing @Deprecated(forRemoval = true)](https://github.com/spring-projects/spring-framework/issues/36591)
   - [AbstractMockHttpServletRequestBuilder#param does not allow null](https://github.com/spring-projects/spring-framework/pull/36599) \[open\]
 * [springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
   - [Fix SpringDocHateoasConfiguration conditions](https://github.com/springdoc/springdoc-openapi/pull/3260) \[open\]
