@@ -122,6 +122,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   - [JSON pretty print option](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1205) \[open\]
 * [easy-random](https://github.com/j-easy/easy-random)
   - [Repeatable random object](https://github.com/j-easy/easy-random/pull/413)
+  - [Generic field type issue (composition)](https://github.com/j-easy/easy-random/issues/441)
 * [commons-beanutils](https://github.com/apache/commons-beanutils)
   - [BEANUTILS-541 - Fix FluentPropertyBeanIntrospector](https://github.com/apache/commons-beanutils/pull/234)
 * [github-api](https://github.com/hub4j/github-api)
