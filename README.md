@@ -120,7 +120,6 @@ last years dedicated to build tooling and Developer Productivity Engineering
   - [artifactsReport granular cache inputs](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1219) \[open\]
   - [Print build path in projectHealth](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1178)
   - [Sort output of graphView and findDeclarations](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1202)
-  - [JSON pretty print option](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1205) \[open\]
 * [easy-random](https://github.com/j-easy/easy-random)
   - [Repeatable random object](https://github.com/j-easy/easy-random/pull/413)
   - [Generic field type issue (composition)](https://github.com/j-easy/easy-random/issues/441)
