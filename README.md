@@ -69,6 +69,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * [maven-surefire-cached](https://github.com/seregamorph/maven-surefire-cached) - Maven surefire/failsafe plugins supporting build caching
 * [maven-turbo-builder](https://github.com/maven-turbo-reactor/maven-turbo-builder) - Make Maven Turbo fast 🏎️
 * [maven-half-life-builder](https://github.com/maven-turbo-reactor/maven-half-life-builder) - ☢️ Maven reactor next level
+* [maven-timeline-extension](https://github.com/maven-turbo-reactor/maven-timeline-extension) - Maven Timeline combo
 * [test-distribution](https://github.com/seregamorph/test-distribution) - Dynamic Test Distribution for Maven
 * [jvm-arch-maven-extension](https://github.com/seregamorph/jvm-arch-maven-extension) - Ensure JVM arch vs CPU arch
 * [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API with powerful testing based on Spring Boot
