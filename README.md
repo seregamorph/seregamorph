@@ -151,6 +151,18 @@ last years dedicated to build tooling and Developer Productivity Engineering
 
 </details>
 
+### Membership
+<details>
+  <summary>Click to expand</summary>
+
+* [Oracle ACE Associate](https://apexadb.oracle.com/ords/ace/profile/schernov)
+* Apache Maven [committer](https://people.apache.org/phonebook.html?unix=maven)
+* [maven-turbo-reactor](https://github.com/maven-turbo-reactor) owner
+* Maveniverse [committer](https://github.com/maveniverse)
+* Kotlin EAP Champion
+
+</details>
+
 ### Bug hunting
 <details>
   <summary>Click to expand</summary>
