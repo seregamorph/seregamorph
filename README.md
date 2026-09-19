@@ -80,7 +80,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * [binaryxml](https://github.com/seregamorph/binaryxml) - own lightweight binary xml serialization library
 * [miro-app-oauth](https://github.com/seregamorph/miro-app-oauth) - sample OAuth application for Miro
 * [Morph3D Screen Saver](https://github.com/seregamorph/morph3d) - Screen Saver for Windows, it was very popular in the 2000s
-* [All personal repositories](https://github.com/seregamorph?tab=repositories&q=&type=source&language=&sort=)
+* All personal repositories [seregamorph](https://github.com/seregamorph?tab=repositories&q=&type=source&language=&sort=) [maven-turbo-reactor](https://github.com/maven-turbo-reactor)
 
 </details>
 
@@ -157,7 +157,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 
 * [Oracle ACE Associate](https://apexadb.oracle.com/ords/ace/profile/schernov)
 * Apache Maven [committer](https://people.apache.org/phonebook.html?unix=maven)
-* [maven-turbo-reactor](https://github.com/maven-turbo-reactor) owner
+* [maven-turbo-reactor](https://github.com/maven-turbo-reactor) creator
 * Maveniverse [committer](https://github.com/maveniverse)
 * Kotlin EAP Champion
 
