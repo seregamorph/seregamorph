@@ -71,6 +71,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
 * [maven-half-life-builder](https://github.com/maven-turbo-reactor/maven-half-life-builder) - ☢️ Maven reactor next level
 * [maven-timeline-extension](https://github.com/maven-turbo-reactor/maven-timeline-extension) - Maven Timeline combo
 * [test-distribution](https://github.com/seregamorph/test-distribution) - Dynamic Test Distribution for Maven
+* [spring-test-timeline](https://github.com/seregamorph/spring-test-timeline) - Spring Test and Context Timeline ⏱️
 * [jvm-arch-maven-extension](https://github.com/seregamorph/jvm-arch-maven-extension) - Ensure JVM arch vs CPU arch
 * [rest-api-framework](https://github.com/seregamorph/rest-api-framework) - build REST API with powerful testing based on Spring Boot
 * [hamcrest-more-matchers](https://github.com/seregamorph/hamcrest-more-matchers) - additional Hamcrest matchers to verify collection order and extracted values
