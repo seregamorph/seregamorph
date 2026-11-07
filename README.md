@@ -90,7 +90,7 @@ last years dedicated to build tooling and Developer Productivity Engineering
   <summary>Click to expand</summary>
 
 * [pgjdbc](https://github.com/pgjdbc/pgjdbc)
-  - [connectTimeout property support](https://github.com/pgjdbc/pgjdbc/pull/140)
+  - [connectTimeout support](https://github.com/pgjdbc/pgjdbc/pull/140)
 * [maven](https://maven.apache.org/)
   - [Fix DefaultExceptionHandler NPE](https://github.com/apache/maven/pull/241)
 * [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
